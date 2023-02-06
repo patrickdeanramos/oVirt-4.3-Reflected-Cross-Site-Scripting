@@ -13,7 +13,7 @@ Screenshot:
 Response from RedHat:<
 oVirt 4.3 is an obsolete version 
 
-Authors:<br><br>
-Patrick Dean Ramos<br><br>
-Nathu Nandwani<br><br>
-Junnair Manla<br><br>
+Authors:<br>
+Patrick Dean Ramos<br>
+Nathu Nandwani<br>
+Junnair Manla<br>
